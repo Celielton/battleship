@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\celto\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\celto\\.nuget\\packages"
-    ]
-  }
-}
