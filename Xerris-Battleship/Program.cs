@@ -52,7 +52,7 @@ namespace Xerris_Battleship
                     var source = shipOne.Shots.Count > shipTwo.Shots.Count ? shipTwo : shipOne;
                     var target = shipOne.Shots.Count > shipTwo.Shots.Count ? shipOne : shipTwo;
                     PrintBoard(source);
-                    Console.WriteLine("\n\n\n\nEnter a shot position:");
+                    Console.WriteLine("\n\n\n\nENTER A SHOT POSITION:");
                     shot = Console.ReadLine();
                     if (shot.IsValiShot())
                     {
@@ -71,12 +71,12 @@ namespace Xerris_Battleship
                             if (target.CheckHit(positionShot))
                             {
                                 source.AddTry(positionShot, true);
-                                Console.WriteLine("YOU GOT HIM!!!");
+                                Console.WriteLine("HIT!!!");
                             }
                             else
                             {
                                 source.AddTry(positionShot, false);
-                                Console.WriteLine("NOT THIS TIME!!");
+                                Console.WriteLine("MISS!!");
                             }
 
                             Console.WriteLine("PRESS ANY KEY TO CONTINUE");
@@ -95,7 +95,8 @@ namespace Xerris_Battleship
 
             Console.Clear();
             var winner = shipOne.IsSunk() ? shipTwo : shipOne;
-            Console.WriteLine($"{winner.PlayerName} IS THE WINNER!!!");
+            Console.WriteLine($"{winner.PlayerName} IS THE WINNER !!!");
+            Console.WriteLine($"{winner.PlayerName} YOU SUNK MY BATTLESHIP!!!");
         }
 
         private static Ship CreatePlayer(string playerName)
