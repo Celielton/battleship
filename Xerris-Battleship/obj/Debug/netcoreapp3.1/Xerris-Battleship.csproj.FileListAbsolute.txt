@@ -1,0 +1,13 @@
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.exe
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.deps.json
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.runtimeconfig.json
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.runtimeconfig.dev.json
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.dll
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\bin\Debug\netcoreapp3.1\Xerris-Battleship.pdb
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.AssemblyInfoInputs.cache
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.AssemblyInfo.cs
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.csproj.CoreCompileInputs.cache
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.dll
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.pdb
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.genruntimeconfig.cache
+C:\Users\celto\source\repos\Xerris-Battleship\Xerris-Battleship\obj\Debug\netcoreapp3.1\Xerris-Battleship.csprojAssemblyReference.cache
